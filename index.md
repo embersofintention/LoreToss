@@ -5,8 +5,8 @@ Category: []
 
 
 aaAAaAaaa hello hi hey
-![[rappydance.gif|rappydance.gif]]
-![[rapscalliensmile.png|rapscalliensmile.png]]
+![rappydance.gif](rappydance.gif)
+![rapscalliensmile.png](rapscalliensmile.png)
 
 hERE'S a link ok let's test links:
-[[contents/Articles/this here sure is a link.md|a thing]]
+[a thing](contents/Articles/this%20here%20sure%20is%20a%20link.md.md)
