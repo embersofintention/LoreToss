@@ -3,6 +3,7 @@ share: true
 ---
 
 # TESTING THIS OUT AODIFAOSDF fart
+![](./stupidtimetobealive.gif)
 ![[./rappydance.gif|rappydance.gif]]
 ![[./rapscalliensmile.png|rapscalliensmile.png]]
 
