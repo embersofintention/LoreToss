@@ -4,8 +4,8 @@ share: true
 
 # WHAT A STUPID TIME TO BE ALIVE
 I am going to see if this updates. 
-[Let's try this link here](./MOCs/Rapscallien%20MOC.md)
 
+[sdafasfd](Gallery%20Setup%20Experiments/Gallery%20Posts.md)
 
 [let's see if I broke this link.](./contents/verymuchalink.md)
 
