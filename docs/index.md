@@ -5,7 +5,7 @@ share: true
 # WHAT A STUPID TIME TO BE ALIVE
 I am going to see if this updates. 
 
-adfasdf
+[Gallery_EXP2/Images! yay!.md](./Gallery_EXP2/Images!%20yay!.md)
 
 [let's see if I broke this link.](./contents/verymuchalink.md)
 
