@@ -1,7 +1,5 @@
 ---
 share: true
-url_title: 
-tags: 
 ---
 ---
 
