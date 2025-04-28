@@ -5,7 +5,7 @@ share: true
 # WHAT A STUPID TIME TO BE ALIVE
 I am going to see if this updates. 
 
-[sdafasfd](Gallery%20Setup%20Experiments/Gallery%20Posts.md)
+adfasdf
 
 [let's see if I broke this link.](./contents/verymuchalink.md)
 
