@@ -3,5 +3,5 @@ share: true
 url_title: itsalink
 ---
 [Just look how link this link is.  Very link.](verymuchalink.md)
-![rapscallien-coffeeshrug.png](../../images/rapscallien-coffeeshrug.png)
+![rapscallien-coffeeshrug](../images/rapscallien-coffeeshrug.png)
 
