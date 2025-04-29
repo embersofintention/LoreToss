@@ -5,6 +5,8 @@ share: true
 # WHAT A STUPID TIME TO BE ALIVE
 I am going to see if this updates. 
 
+[Rapscallien MOC](./MOCs/Rapscallien%2520MOC.md#)
+
 
 ![](./images/RappyYell.png)
 
