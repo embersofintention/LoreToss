@@ -4,7 +4,7 @@ share: true
 
 ---
 **Maps Of Content / MOCs:** 
-* [Rapscallien MOC](../MOCs/Rapscallien%2520MOC.md#)
+* [Rapscallien_MOC](../MOCs/Rapscallien_MOC.md#)
 
 ---
 
