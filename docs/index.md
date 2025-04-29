@@ -5,7 +5,8 @@ share: true
 # WHAT A STUPID TIME TO BE ALIVE
 I am going to see if this updates. 
 
-[Gallery_EXP2/Images! yay!.md](./Gallery_EXP2/Images!%20yay!.md)
+
+![](./images/RappyYell.png)
 
 [let's see if I broke this link.](./contents/verymuchalink.md)
 
@@ -16,4 +17,5 @@ I am going to see if this updates.
 
 
 I'm sleepy tho
-[Withheld](../Withheld.md#)
+
+
