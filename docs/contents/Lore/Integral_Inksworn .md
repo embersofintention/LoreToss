@@ -6,7 +6,7 @@ tags:
   - Definitions
   - metaphor
 ---
-[Rapscallien MOC](../../MOCs/Rapscallien%2520MOC.md#)
+[Rapscallien_MOC](../../MOCs/Rapscallien_MOC.md#)
 ((page is a WIP and uploaded for testing purposes))
 # Integral Inksworn 
 - An anagram for "inner workings"
