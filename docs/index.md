@@ -3,9 +3,13 @@ share: true
 ---
 
 # WHAT A STUPID TIME TO BE ALIVE
-I am going to see if this updates. kkkkkkkkkk
+![](./images/stupidesttimetobealive.gif)
 
-[Rapscallien_MOC](./MOCs/Rapscallien_MOC.md#)
+
+
+I'm testing so much stuff right now lol, please kindly ignore the flaming train wreck this is gonna be for a bit.   ...Also, most of the links are gonna be broken. I'm only actually uploading bits at a time until I know how I wanna do stuff, to save time and bandwidth and whatever.  
+
+[MOCs / Table of Contents](../MOCs.md#)
 
 
 ![](./images/RappyYell.png)
@@ -14,9 +18,9 @@ I am going to see if this updates. kkkkkkkkkk
 
 
 ![](./images/ralienaaaaa.png)
-![](./images/stupidesttimetobealive.gif)
+
 ![](./images/rapscalliensmile.png)
 
 I'm sleepy tho
-
+ok thanks bye :D
 
