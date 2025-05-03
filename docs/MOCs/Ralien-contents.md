@@ -1,13 +1,13 @@
 ---
 share: true
-url_title: 
+url_title: Ralien-contents
 tags: 
 ---
 
 # Related Articles
 
 ## Unsorted:
-- [Dandelion_Bloom_skill-wip](../contents/Lore/Dandelion_Bloom_skill-wip.md)
+- [Dandelion_Bloom_skill-wip](../contents/Lore/dandelions.md)
 
 
 

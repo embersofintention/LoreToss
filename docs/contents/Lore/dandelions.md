@@ -3,7 +3,7 @@ share: true
 tags:
   - Ralien_Skills
   - skill
-url_title: dandelion
+url_title: dandelions
 ---
 # (name pending) -- Dandelion Bloom Skill Thingie That Ralien Does Sometimes :O 
 
@@ -101,7 +101,7 @@ This is where the **real power of sharing our Intention** lies:  In the ways it 
 
 
 **Relevant Subjects:**
-* [Ralien_MOC](../../MOCs/Ralien_MOC.md#)
+* [Ralien_MOC](../../MOCs/Ralien-contents.md#)
 
 ---
 
