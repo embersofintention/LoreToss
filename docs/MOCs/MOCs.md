@@ -6,7 +6,7 @@ tags:
 [What is a MOC? (external link)](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/)
 
 
-.
+..
 
 
 
