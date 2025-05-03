@@ -3,6 +3,7 @@ share: true
 tags:
   - Ralien_Skills
   - skill
+url_title: dandelion
 ---
 # (name pending) -- Dandelion Bloom Skill Thingie That Ralien Does Sometimes :O 
 
@@ -25,10 +26,10 @@ tags:
 ## **Process**:
 
 ### Preparation:  **Seed Germination**
-* The "seed" is briefly held and focused on, imbuing it with Intention -- both figuratively and literally.  
+* The "**seed**" is briefly held and focused on, imbuing it with Intention -- both figuratively and literally.  
 	* He must keep his focus firmly on the energy that he wishes to share; if not, the effect will not work, and the seed will be empty
 
-* During this, the seed is rolled about between his paws.  
+* During this, the seed is **rolled about between his paws**.  
 	* As hands have many points where they must flex and bend, his paws have many cracks within his firm material to allow for this movement.  
 	* These little fissures, like any of his others, are filled in and held together by the rubbery wax-like material that is created when bits of passing Intention are exposed to time and solidify.  
 	* The normal effects of physical contact with raw Intention would not apply, as the wax is hardened and solid.  HOWEVER, the act of rapidly rolling it about between his paws creates just enough friction to soften it up *just a bit*, allowing for a tiny bit of its essence to coat the tiny object.  
