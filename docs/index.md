@@ -8,7 +8,7 @@ url_title: index
 
 
 
-I'm testing so much stuff right now lol, please kindly ignore the flaming train wreck this is gonna be for a bit.   ...Also, most of the links are gonna be broken. I'm only actually uploading bits at a time until I know how I wanna do stuff, to save time and bandwidth and whatever.  
+I'm testing so much stuff right now lol, please kindly ignore the flaming train wreck this is gonna be for a bit.   ...Also, most of the links are gonna be broken. I'm only actually uploading bits at a time until I know how I wanna do stuff, to save time and bandwidth and whatever.    wop wop
 
 [MOCs / Table of Contents](./MOCs/MOCs.md#)
 
