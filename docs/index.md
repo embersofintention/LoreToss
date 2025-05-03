@@ -13,12 +13,20 @@ I'm testing so much stuff right now lol, please kindly ignore the flaming train 
 Go look at thing let's see if it works: 
 * [Test Page for Testing Purposes](./contents/Lore/test_page.md#)
 * [MOCs](./MOCs/MOCs.md#)
-* and I'm gonna make another link now that I've enabled wikilinks.. [[./MOCs/MOCs|MOCs]] oasjfsof
+* and I'm gonna make another link now that I've enabled wikilinks.. [MOCs](./MOCs/MOCs.md) oasjfsof
 
+
+
+
+
+
+
+
+---
 
 
 "AAAAAAAAAAAA"
-![RappyYelling|100](./images/RappyYell.png)  ![aaa|100](./images/ralienaaaaa.png)
+![RappyYelling](./images/RappyYell.png)  ![aaa](./images/ralienaaaaa.png)
 
 
 
