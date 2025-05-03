@@ -14,7 +14,7 @@ tags:
 - [MOC Template](../../MOC%20Template.md)
 - [Anagram_MOC](../../anagrams.md)
 - [Rapscallien_MOC](./Rapscalliens.md)
-- [Ralien_MOC](./Ralien_MOC.md)
+- [Ralien_MOC](./Ralien-contents.md)
 - [Vault Usage Instructions](../../Vault%20Usage%20Instructions.md)
 - [index](../index.md)
 
