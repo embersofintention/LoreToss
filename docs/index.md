@@ -1,5 +1,6 @@
 ---
 share: true
+url_title: index
 ---
 
 # WHAT A STUPID TIME TO BE ALIVE
@@ -16,7 +17,7 @@ I'm testing so much stuff right now lol, please kindly ignore the flaming train 
 
 ![](./images/RappyYell.png)
 
-[let's see if I broke this link.](./contents/verymuchalink.md)
+[let's see if I broke this link.](./contents/itsalink.md)
 
 
 ![](./images/ralienaaaaa.png)
