@@ -18,7 +18,7 @@ Go look at thing let's see if it works:
 
 ![](./images/RappyYell.png)
 
-[let's see if I broke this link.](./contents/itsalink.md)
+
 
 
 ![](./images/ralienaaaaa.png)
